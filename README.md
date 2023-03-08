@@ -1,3 +1,3 @@
 # rsschool-cv
 my training RS School JavaScript/Front-end course
-https://github.com/Kainkey/rsschool-cv.git
+https://Kainkey.github.io/rsschool-cv/cv

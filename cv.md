@@ -32,6 +32,3 @@ sleepSort(arr)
 ```
 
 ----
-
-## Courses:
-#### JavaScript/Front-end 2023Q1 (in progress)

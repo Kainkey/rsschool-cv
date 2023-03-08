@@ -11,7 +11,7 @@
 ### __Telegram:__ Artem_Pukhov
 ### __[VK](https://vk.com/id5432204)__
 ------
-##About me:
+## About me:
 ### Hello, my name is Artem. Born in 1991. I live and work in Russia. I work in a design and production company that deals with cladding of buildings as the head of the design department.
 -----
 ## Skils:

@@ -15,7 +15,7 @@
 ### Hello, my name is Artem. Born in 1991. I live and work in Russia. I work in a design and production company that deals with cladding of buildings as the head of the design department.
 -----
 ## Skils:
-#### - design team management
+#### - Design team management
 #### - HTML5, CSS3
 #### - VS Code
 #### - AutoCad, SolidWorks

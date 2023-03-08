@@ -1,7 +1,7 @@
-# __Artem Pukhov__
+<p> Artem Pukhov </p>
 ------
 
-## __Head of design department__
+<h1>Head of design department</h1>
 --------
 
 ## __Contact information:__

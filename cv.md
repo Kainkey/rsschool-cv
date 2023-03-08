@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # __Artem Pukhov__
-=======
-gi# __Artem Pukhov__
->>>>>>> main
 ------
 
 ## __Head of design department__

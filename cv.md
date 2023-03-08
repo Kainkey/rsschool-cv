@@ -1,10 +1,10 @@
-# __Artem Pukhov__
+<h1>Artem Pukhov</h1>
 ------
 
-## __Head of design department__
+<h2>Head of design department</h2>
 --------
 
-## __Contact information:__
+<h2>Contact information:</h2>
 
 ### __Phone:__ +7 916 853 87 75
 ### __Email:__ art.puhov@gmail.com
